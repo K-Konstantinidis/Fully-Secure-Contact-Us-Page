@@ -1,0 +1,5 @@
+# Detect text files and perform LF normalization
+* text=auto
+
+# Show CSS files as CSS
+*.css linguist-detectable=true
