@@ -1,0 +1,30 @@
+/---------------------------------------------------------------\
+|1)The config.php file, creates and logs in to a database 		|
+|	with the name: "usersdb".									|
+|	The db "usersdb" will be created automatically and 			|
+|	afterwards, a new table with the name "users" will be 	 	|
+|   created also automatically in the database.					|
+| 	This is the db and the table where the users and the admins	|
+|   will register.												|
+\---------------------------------------------------------------/
+
+/-----------------------------------------------\
+|2)ADMIN USERNAMES && PASSWORDS					|
+|	Username: admin1		Password: admin123	|
+|	Username: admin2		Password: admin321 	|
+\-----------------------------------------------/
+
+/-------------------------------\
+|3)USER USERNAMES && PASSWORDS 	|
+|		It's up to you			|
+\-------------------------------/
+
+				-ERROR 1ST LOG IN AS A USER-
+/---------------------------------------------------------------\
+|4)If you try to create an account and login as a user to test	|
+|	the form, you will get a message saying that there is no  	|
+| 	database to connect to. 							 	  	|
+|	This is happening because you first have to connect as an  	|
+|	admin, and create a new database.  		    				|
+|	Then everyone will be able to connect whenever they want.	|
+\---------------------------------------------------------------/
