@@ -12,6 +12,7 @@ Please <a href="https://github.com/K-Konstantinidis/Fully-Secure-Contact-Us-Page
 1. [Download XAMPP](#Download-XAMPP)
 2. [Admin Page](#Admin-Page)
 3. [Contact Us Page](#Contact-Us-Page)
+4. [LogIn - SignUp - Reset](#LogIn---SignUp---Reset)
 
 # Download XAMPP
 
@@ -30,4 +31,63 @@ Here is a [guide](https://www.ionos.com/digitalguide/server/tools/xampp-tutorial
 
 # Admin Page
 
+## Admin Index
+<img src = "screenshots/adminPage.png" width=400px height=250px>
+
+## Create Database
+Just **_click_** the button to create the database.
+
+<img src = "screenshots/dbCreate.png" width=270px height=80px>
+  
+If there is not a database, the admin cannot search for database records.
+
+<img src = "screenshots/noDatabaseAdmin.png" width=300px height=120px>
+
+## Display All Database Records
+`The admin can see all the records in the database`
+
+<img src = "screenshots/databaseRecordsDisplay.png" width=650px>
+<img src = "screenshots/databaseRecords.png" width=650px>
+
+## Search Specific Database Records
+`The admin can search for specific records in the database`
+
+<img src = "screenshots/specificRecords.png" width=400px> <img src = "screenshots/specificRecords2.png" width=400px height=80px>
+
 # Contact Us Page
+## User Index
+`The contact us form`
+
+<img src = "screenshots/form1.png" width=400px>
+<img src = "screenshots/form2.png" width=400px>
+
+## Submit
+`Successful Submit`
+
+<img src = "screenshots/successfully.png" width=550px>
+
+`Empty fields`
+
+<img src = "screenshots/emptyFields.png" width=450px height=250px>
+
+`ERROR: Admin did not create a database`
+
+<img src = "screenshots/noDatabase.png" width=400px height=200px>
+
+# LogIn - SignUp - Reset
+## LogIn
+
+<img src = "screenshots/logIn.png" width=350px>
+
+## SignUp
+
+<img src = "screenshots/signUp.png" width=350px>
+
+## Reset Password
+
+<img src = "screenshots/reset.png" width=350px>
+
+## Users
+`In the database you can see that every single user (except the admins) have a hash password`
+
+<img src = "screenshots/databaseUsers.png" width=500px>
