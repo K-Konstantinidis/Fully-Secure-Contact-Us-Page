@@ -12,6 +12,9 @@
 |		ADMIN USERNAMES && PASSWORDS			|
 |	Username: admin1		Password: admin123	|
 |	Username: admin2		Password: admin321 	|
+| Add new Username & Password either in the database or by 	|
+| creating a new user in the Register Page. If you want this	|
+| new user to be an admin change line 58 in login.php		|
 \---------------------------------------------------------------/
 
 /-------------------------------\
